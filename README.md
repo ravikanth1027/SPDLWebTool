@@ -1,4 +1,4 @@
-# SPDL_E2ESecure_Workflow_Design_Tool
+# SPDL E2ESecure Workflow Design Tool
 
 The tool is developed using ExpressJs and Python scripts.
 
